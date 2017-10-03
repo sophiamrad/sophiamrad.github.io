@@ -1,19 +1,20 @@
 body{
 	
-font-family: "Helvetica", "Arial", fantasy;
+font-family: "Arial", Arial, sans-serif;
 	
 color: #febabb;
 	background-color: #febabb;
 	
 text-shadow: 1px 1px #ff0000;
 	text-align: center;
-
+	
 }
 
 
-
-h1 {
+h1, h2, h3 {
 	
+font-family: "Arial", Arial, sans-serif;
+
 font-size: 1.3em;
 	
 text-align: center;
